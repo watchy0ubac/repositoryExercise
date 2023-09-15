@@ -1,3 +1,8 @@
+body {
+    background-color: aqua;
+    text-align: center;
+}
+
 h1 {
     background: crimson;
     font-size: 12rem;
